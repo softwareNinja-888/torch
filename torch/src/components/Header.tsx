@@ -9,7 +9,7 @@ export function Header():JSX.Element{
                 </div>
                 <div className="text-primaryText text-lg flex gap-12">
                     <div className="hover:text-white">
-                        <a href="#">Features</a>
+                        <a href="#feature">Features</a>
                     </div>
                     <div className="hover:text-white">
                         <a href="#">Pricing</a>
