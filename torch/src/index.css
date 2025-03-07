@@ -12,4 +12,8 @@
   --color-primaryText: #dbdbdb;
 
 }
+
+body{
+  background-color: #101211;
+}
 /* '@tailwind base' is no longer available in v4. Use '' instead. */
