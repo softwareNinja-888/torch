@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@tailwind base;
+@tailwind utilities;
+
+@theme {
+
+  --color-primary: #101211;
+  --color-secondary: #ffc44d;
+  --color-otherBlack: rgba(255,255,255,0.08);
+
+}
