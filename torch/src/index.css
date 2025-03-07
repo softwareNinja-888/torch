@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
-@tailwind base;
+@import "tailwindcss/preflight"
 @tailwind utilities;
 
 @theme {
@@ -9,4 +9,7 @@
   --color-secondary: #ffc44d;
   --color-otherBlack: rgba(255,255,255,0.08);
 
+  --color-primaryText: #dbdbdb;
+
 }
+/* '@tailwind base' is no longer available in v4. Use '' instead. */
