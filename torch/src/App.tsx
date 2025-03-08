@@ -4,6 +4,7 @@ import { Hero } from './components/Hero'
 import { Benefits } from './components/Benefits'
 import { FeatureOne } from './components/FeatureOne'
 import { FeatureTwo } from './components/FeatureTwo'
+import { Testimonals } from './components/Testimonials'
 
 function App() {
 
@@ -15,6 +16,7 @@ function App() {
         <Benefits/>
         <FeatureOne/>
         <FeatureTwo/>
+        <Testimonals/>
       </div>
 
     </>
