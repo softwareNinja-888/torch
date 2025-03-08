@@ -1,0 +1,23 @@
+cog:https://cdn.prod.website-files.com/67066dfc1c57408478acabb1/67066dfc1c57408478acac7d_cog.svg
+chart: https://cdn.prod.website-files.com/67066dfc1c57408478acabb1/67066dfc1c57408478acac7c_chart-spline.svg
+sprout:https://cdn.prod.website-files.com/67066dfc1c57408478acabb1/67066dfc1c57408478acac7b_sprout.svg
+heart:https://cdn.prod.website-files.com/67066dfc1c57408478acabb1/67066dfc1c57408478acac7a_heart-handshake.svg
+sheild:https://cdn.prod.website-files.com/67066dfc1c57408478acabb1/67066dfc1c57408478acac79_shield-half.svg
+rocket:https://cdn.prod.website-files.com/67066dfc1c57408478acabb1/67066dfc1c57408478acac78_rocket.svg
+check:https://cdn.prod.website-files.com/67066dfc1c57408478acabb1/67066dfc1c57408478acac71_check.svg
+plus: https://cdn.prod.website-files.com/67066dfc1c57408478acabb1/67066dfc1c57408478acac6d_plus.svg
+slider:https://cdn.prod.website-files.com/67066dfc1c57408478acabb1/67066dfc1c57408478acac6a_sliders-horizontal.svg
+chart:https://cdn.prod.website-files.com/67066dfc1c57408478acabb1/67066dfc1c57408478acac69_chart-no-axes-combined.svg
+panel:https://cdn.prod.website-files.com/67066dfc1c57408478acabb1/67066dfc1c57408478acac68_panels-top-left.svg
+zap:https://cdn.prod.website-files.com/67066dfc1c57408478acabb1/67066dfc1c57408478acac67_zap.svg
+handeshake:https://cdn.prod.website-files.com/67066dfc1c57408478acabb1/67066dfc1c57408478acac66_handshake.svg
+refreash: https://cdn.prod.website-files.com/67066dfc1c57408478acabb1/67066dfc1c57408478acac65_refresh-cw.svg
+chartPie:https://cdn.prod.website-files.com/67066dfc1c57408478acabb1/67066dfc1c57408478acac64_chart-pie.svg
+timer:https://cdn.prod.website-files.com/67066dfc1c57408478acabb1/67066dfc1c57408478acac63_timer.svg
+layout:https://cdn.prod.website-files.com/67066dfc1c57408478acabb1/67066dfc1c57408478acac62_layout-dashboard.svg
+wand: https://cdn.prod.website-files.com/67066dfc1c57408478acabb1/67066dfc1c57408478acac61_wand-sparkles.svg
+mouse: https://cdn.prod.website-files.com/67066dfc1c57408478acabb1/67066dfc1c57408478acac60_mouse-pointer-click.svg
+newest:https://cdn.prod.website-files.com/67066dfc1c57408478acabb1/67066dfc1c57408478acac5f_radar.svg
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@

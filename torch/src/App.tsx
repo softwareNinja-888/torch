@@ -3,6 +3,7 @@ import { Header } from './components/Header'
 import { Hero } from './components/Hero'
 import { Benefits } from './components/Benefits'
 import { FeatureOne } from './components/FeatureOne'
+import { FeatureTwo } from './components/FeatureTwo'
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
         <Hero/>
         <Benefits/>
         <FeatureOne/>
+        <FeatureTwo/>
       </div>
 
     </>
